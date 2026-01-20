@@ -15,7 +15,7 @@ export default function Home() {
     <>
       <header>
         <a href="#" className="logo-holder">
-          <div className="logo">N</div>
+          <div className="logo">P</div>
           <div className="logo-text">Portfolio Website</div>
         </a>
 
@@ -68,27 +68,29 @@ export default function Home() {
             <div>
               <h1>
                 <small>Hi I'm</small>
-                Nika Barrett
+                Prince Walker
               </h1>
 
               <p>
-               I am an aspiring Computer Science professional with a strong background in administrative operations, financial record-keeping, and information technology. I am currently building my expertise through academic training and hands-on professional experience. 
+                I’m a Computer Science professional with a strong foundation in
+                software development and hands-on technical support.
                 <span>
-                   I combine technical knowledge with strong organizational and analytical skills to deliver efficient, accurate, and well-structured solutions. I thrive in fast-paced environments where attention to detail, adaptability, and problem-solving are essential.
-
+                  I enjoy solving complex problems, working with modern
+                  technologies, and contributing to teams that value innovation,
+                  learning, and real-world impact.
                 </span>
               </p>
 
               <div className="call-to-action">
                 <a
-                  href="./Nika C. Barrett Resume.pdf"
+                  href="./Resume - Prince Walker - 1_10.pdf"
                   className="button black"
                 >
                   View Resume
                 </a>
 
                 <a
-                  href="https://mail.google.com/mail/?view=cm&fs=1&to=nikabarrett1234@gmail.com&su=Portfolio%20Contact"
+                  href="https://mail.google.com/mail/?view=cm&fs=1&to=princewalker67@gmail.com&su=Portfolio%20Contact"
                   className="button"
                   target="_blank"
                 >
@@ -96,15 +98,30 @@ export default function Home() {
                 </a>
               </div>
 
-            
+              <div className="social-links">
+                <a href="#">
+                  <img
+                    src="./imgs/github.png"
+                    alt="GitHub"
+                    width="48"
+                  />
+                </a>
+                <a href="https://www.linkedin.com/in/prince-walker-904b46153/">
+                  <img
+                    src="./imgs/linkedin.png"
+                    alt="LinkedIn"
+                    width="48"
+                  />
+                </a>
+              </div>
             </div>
           </div>
 
           <div className="hero-yellow">
             <img
-              src="./imgs/hero-image (2).png"
-              alt="Nika Barrett"
-              width="70%"
+              src="./imgs/my-hero-image.png"
+              alt="Prince Walker"
+              width="100%"
             />
           </div>
         </section>
@@ -112,32 +129,29 @@ export default function Home() {
         <section className="logos container">
           <div className="marquee">
             <div className="track">
-              <img src="./imgs/pngegg (1).png" alt="HTML" height="120" width="128" />
-              <img src="./imgs/pngegg.png" alt="CSS" height="120" width="128" />
-              <img src="./imgs/customer-service_1915579.png" alt="JS" height="120" width="128" />
-              <img src="./imgs/web-design (1).png" alt="Java" height="128" width="160" />
-              
-              <img src="./imgs/pngegg (1).png" alt="HTML" height="120" width="128" />
-              <img src="./imgs/pngegg.png" alt="CSS" height="140" width="128" />
-              <img src="./imgs/customer-service_1915579.png" alt="JS" height="120" width="128" />
-              <img src="./imgs/web-design (1).png" alt="Java" height="128" width="160" />
-              
-              <img src="./imgs/pngegg (1).png" alt="HTML" height="120" width="128" />
-              <img src="./imgs/pngegg.png" alt="CSS" height="120" width="128" />
-              <img src="./imgs/customer-service_1915579.png" alt="JS" height="120" width="128" />
-              <img src="./imgs/web-design (1).png" alt="Java" height="128" width="160" />
-              
-              <img src="./imgs/pngegg (1).png" alt="HTML" height="120" width="128" />
-              <img src="./imgs/pngegg.png" alt="CSS" height="120" width="128" />
-              <img src="./imgs/customer-service_1915579.png" alt="JS" height="120" width="128" />
-              <img src="./imgs/web-design (1).png" alt="Java" height="128" width="160" />
-              
-              <img src="./imgs/pngegg (1).png" alt="HTML" height="120" width="128" />
-              <img src="./imgs/pngegg.png" alt="CSS" height="120" width="128" />
-              <img src="./imgs/customer-service_1915579.png" alt="JS" height="120" width="128" />
-              <img src="./imgs/web-design (1).png" alt="Java" height="128" width="160" />
-              
-              
+              <img src="./imgs/html.png" alt="HTML" height="120" width="128" />
+              <img src="./imgs/css.png" alt="CSS" height="120" width="128" />
+              <img src="./imgs/javascript.png" alt="JS" height="120" width="128" />
+              <img src="./imgs/java-logo.png" alt="Java" height="128" width="160" />
+              <img src="./imgs/mysql.png" alt="MySQL" height="120" width="200" />
+              <img src="./imgs/UiUx.png" alt="UI/UX" height="120" width="200" />
+              <img src="./imgs/spring.png" alt="Spring" height="120" width="120" />
+
+              <img src="./imgs/html.png" alt="HTML" height="120" width="128" />
+              <img src="./imgs/css.png" alt="CSS" height="120" width="128" />
+              <img src="./imgs/javascript.png" alt="JS" height="120" width="128" />
+              <img src="./imgs/java-logo.png" alt="Java" height="128" width="160" />
+              <img src="./imgs/mysql.png" alt="MySQL" height="120" width="200" />
+              <img src="./imgs/UiUx.png" alt="UI/UX" height="120" width="200" />
+              <img src="./imgs/spring.png" alt="Spring" height="120" width="120" />
+
+              <img src="./imgs/html.png" alt="HTML" height="120" width="128" />
+              <img src="./imgs/css.png" alt="CSS" height="120" width="128" />
+              <img src="./imgs/javascript.png" alt="JS" height="120" width="128" />
+              <img src="./imgs/java-logo.png" alt="Java" height="128" width="160" />
+              <img src="./imgs/mysql.png" alt="MySQL" height="120" width="200" />
+              <img src="./imgs/UiUx.png" alt="UI/UX" height="120" width="200" />
+              <img src="./imgs/spring.png" alt="Spring" height="120" width="120" />
             </div>
           </div>
         </section>
@@ -148,40 +162,33 @@ export default function Home() {
             Skills
           </h2>
 
-          <div className="holder-pink">
+          <div className="holder-blue">
             <div className="left-column">
-             
+              <h3>Frontend</h3>
               <ul>
-                <li>Digital Media Design</li>
-                <li>Basic Programming </li>
-                <li>Database Design </li>
-                <li>Web Design/ UX Design </li>
-                <li>Google Suite</li>
-                <li>Administrative Support </li>
-                <li>Software Testing</li>
-                <li>Animation Design</li>
-                <li>Video Effects</li>
-                <li>Troubleshooting</li>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JavaScript</li>
+                <li>UI/UX Design</li>
               </ul>
 
-              
+              <h3>Backend</h3>
+              <ul>
+                <li>Python</li>
+                <li>Java</li>
+              </ul>
             </div>
 
             <div className="right-column">
               <h3>A bit about me</h3>
               <p>
-               I am currently pursuing a Bachelor’s degree in Computer Science at the University of Technology, Jamaica, with a major in Information Technology and a minor in Multimedia Technology. 
+                I’m Prince Walker, a Computer Science graduate with a strong
+                interest in software development, IT support, and
+                problem-solving.
               </p>
               <p>
-                My academic training, combined with hands-on experience in clerical, financial, and data-driven roles, has helped me develop strong analytical, problem-solving, and organizational skills. 
-              </p>
-              <p>
-                I am highly adaptable, detail-oriented, and passionate about leveraging technology to improve administrative processes, data accuracy, and user-focused solutions. 
-
-              </p>
-              <p>
-                I thrive in environments that require confidentiality, precision, and collaboration, and I am continuously working to expand my technical and creative skill set.
-
+                I’m particularly interested in AI and cloud-based technologies
+                and enjoy applying technology in meaningful, real-world ways.
               </p>
             </div>
           </div>
@@ -195,44 +202,41 @@ export default function Home() {
 				<article>
 					<figure>
 						<div>
-							<img src="./imgs/calabar.jpg" alt="Workplace 1 - Calabar High School" width="100%" />
+							<img src="./imgs/sportmax.jpg" alt="Workplace 1 - Digicel Sports Max" width="100%" />
 							<figcaption>
-								  Calabar High School, Kingston, Jamaica.
+								  Digicel Sports Max, Kingston, Jamaica.
 							</figcaption>
 						</div>
 					</figure>
-					<h3> Calabar High School</h3>
-					<div>(Sept 2024 – Present)</div>
-          <h4>Clerical Assistant</h4>
-					<p>Provided administrative support across Human Resources, finance, and records management, including staff register updates, report preparation, and confidential document handling. Managed accounts receivable, bank reconciliations, and tax-related submissions through Jamaica’s Zero Rating portal while liaising with financial institutions.</p>
+					<h3>Digicel Sports Max</h3>
+					<div>(May 2024 – Sep 2024)</div>
+					<p>Monitored live broadcasts, managed on-air content, and troubleshooted technical issues in real time. Coordinated multiple event feeds and ensured seamless transmission under high-pressure conditions, developing strong multitasking and critical-thinking skills.</p>
 				</article>
 				<article>
 					<figure>
 						<div>
-							<img src="./imgs/eoj2.jpg" alt="Workplace 1 -  Electoral Office of Jamaica" width="100%" />
+							<img src="./imgs/seven11.png" alt="Workplace 2 - seven11" width="100%" />
 							<figcaption>
-								  Electoral Office of Jamaica.
+								 Seven 11, Park City, Utah.
 							</figcaption>
 						</div>
 					</figure>
-					<h3>  Electoral Office of Jamaica</h3>
-					<div>(Aug 2023 – Apr 2024)</div>
-          <h4>Data Collection Officer</h4>
-					<p>Accurately entered, validated, and maintained voter data within the Electoral Registration System (ERS), ensuring data integrity and completeness. Conducted quality assurance checks, corrected discrepancies, and flagged irregularities to support system accuracy and compliance.</p>
+					<h3>Retail Clerk – Seven Eleven, Park City </h3>
+					<div>(May 2023 – Sep 2023)</div>
+					<p>Provided friendly, efficient customer service, assisting with product inquiries and guiding shoppers to items. Handled sales transactions accurately on the POS system while maintaining a welcoming store environment. </p>
 				</article>
 				<article>
 					<figure>
 						<div>
-							<img src="./imgs/eoj1.jpg" alt="Workplace 1 -  Electoral Office of Jamaica" width="100%" />
+							<img src="./imgs/westgate.jpg" alt="Workplace 3 - Westgate Resort" width="100%" />
 							<figcaption>
-								  Electoral Office of Jamaica.
+								Westgate Resort, Park City, Utah
 							</figcaption>
 						</div>
 					</figure>
-					<h3>  Electoral Office of Jamaica</h3>
-					<div>(Jun 2023 – Aug 2023)</div>
-          <h4>Procurement Clerk</h4>
-					<p>Prepared and processed purchase orders, tracked deliveries, and maintained procurement databases to ensure timely and accurate sourcing of goods and services. Liaised with suppliers, evaluated quotations, and negotiated pricing and terms in line with procurement standards and budget constraints.</p>
+					<h3>Westgate Resort, Park City</h3>
+					<div>(May 2022 – Sep 2022) | (May 2023 – Sep 2023)</div>
+					<p>Maintained clean and comfortable guest rooms, performed deep cleaning, replenished supplies, and reported maintenance issues. Delivered excellent customer service to ensure guest satisfaction.</p>
 				</article>
 				
 			</div>
@@ -240,45 +244,44 @@ export default function Home() {
         <section id="projects" class="bento container">
 			<h2>
 				<small>
-Upcoming				</small>
+					Previous
+				</small>
 				 Projects
 			</h2>
 			<div className="bento-grid">
 				<a href="#" class="bento-item">
-					<img src="./imgs/utechL.png" alt="BGCCI" width="100%" />
+					<img src="./imgs/UTech-Racing.jpg" alt="BGCCI" width="100%" />
 				</a>
 				<a href="#" class="bento-item">
-					<img src="./imgs/wireframe1.png" alt="Churhview" width="100%" />
+					<img src="./imgs/Vibing-With.jpg" alt="Churhview" width="100%" />
 				</a>
 				<a href="#" class="bento-item">
-					<img src="./imgs/GSAT.png" alt="Harley" width="100%" />
+					<img src="./imgs/drivingsim.jpeg" alt="Harley" width="100%" />
 				</a>
 				<a href="#" class="bento-item">
-					<img src="./imgs/Digital Marketing .png" alt="Bunbury" width="100%" />
+					<img src="./imgs/AIImage.jpg" alt="Bunbury" width="100%" />
 				</a>
 				<a href="#" class="bento-item">
-					<img src="./imgs/AI.png" alt="Running" width="100%" />
+					<img src="./imgs/utechlogo.jpg" alt="Running" width="100%" />
 				</a>
 				<a href="#" class="bento-item">
-					<img src="./imgs/uiux-wireframe.png" alt="School" width="100%" />
+					<img src="./imgs/bento-7.jpg" alt="School" width="100%" />
 				</a>
 			</div>
 		</section>
           <section class="chatbot container">
 			<h2>
-				 <small>
-          
-					Coming Soon
+				<small>
+					Talk to me
 				</small>
 				Chatbot
-       
 			</h2>
 			<div class="chatbot-blue">
 				<div class="chat-info">
 					<h3>Azure AI Chatbot</h3>
 					<p>I've put together a chatbot here which knows all my skills, work experience and has a copy of my CV/Resume. You can use it to ask questions about me to get a better idea of who I am and what I've done.</p>
 					<p>You can also download my resume here if you want to take a look at it.  I'm currently looking for new opportunities so if you have a project you think I'd be a good fit for, please get in touch!</p>
-					<a href="./Nika C. Barrett Resume.pdf" class="button black">Download Resume</a>
+					<a href="./Resume - Prince Walker - 1_10.pdf" class="button black">Download Resume</a>
 				</div>
 				<div class="chat-box">
 					<div class="scroll-area">
@@ -298,7 +301,7 @@ Upcoming				</small>
 						</ul>
 					</div>
 					<div class="chat-message">
-						<input type="text" placeholder="Hey Nika, what skills are you best at?"/>
+						<input type="text" placeholder="Hey Prince, what skills are you best at?"/>
 						<button class="button black">Send</button>
 					</div>
 				</div>
